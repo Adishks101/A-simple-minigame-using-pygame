@@ -1,2 +1,3 @@
 # A-simple-minigame-using-pygame
 a simple game created using pygame 
+resources will be added soon...
